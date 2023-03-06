@@ -7,4 +7,9 @@ I'm a media designer from Germany who's currently learning how to code. Nice to 
 - 🐈 cats 
 - 🥭 fruits
 - 🎨 painting
+- 📖 reading
 
+### Things i want to learn:
+- HTML & CSS 
+- JavaScript 
+- React 
