@@ -13,7 +13,6 @@ I'm a media designer from Germany who's currently **learning how to code** 🌱 
 - HTML & CSS 
 - JavaScript 
 - React 
-- the list goes on and on...
 
 
 ### ⚡️ My GitHub Stats: 
