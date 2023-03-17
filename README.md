@@ -1,4 +1,4 @@
-# Hi there, I'm Henrike! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width=30% height=30%>
+# Hi there, I'm Henrike! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width=15% height=15%>
 
 
 I'm a media designer from Germany who's currently **learning how to code** 🌱 Nice to have you here! 
